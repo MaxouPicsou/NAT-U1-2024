@@ -1,0 +1,609 @@
+﻿Action,Type,Time(s),Time (GMT+0000),Time (GMT+0200),Video time (s),Video time (hh:mm:ss),Application,Activity
+Unlock Ubuntu 64-bit VM ,Left Click,1712649819.812355,08:03:39,10:03:39,14,00:00:14,Ubuntu,System
+"Select ""user"" profil",ENTER Key,1712649826.260442,08:03:46,10:03:46,20,00:00:20,Ubuntu,System
+Open Thunderbird app,Left Click,1712649831.876413,08:03:51,10:03:51,26,00:00:26,Thunderbird,Mail
+"Open ""Did you just reset your password?"" mail",Left Click,1712649839.956443,08:03:59,10:03:59,34,00:00:34,Thunderbird,Mail
+Minimize Thunderbird window,Left Click,1712649849.860535,08:04:09,10:04:09,44,00:00:44,Thunderbird,Mail
+Open Firefox app,Left Click,1712649851.572536,08:04:11,10:04:11,45,00:00:45,Firefox,Browsing
+Click on Firefox url bar,Left Click,1712649856.252532,08:04:16,10:04:16,50,00:00:50,Firefox,Browsing
+"Search ""linkdin""",ENTER Key,1712649863.892612,08:04:23,10:04:23,58,00:00:58,Firefox,Browsing
+"Click on ""Linkedin"" link",Left Click,1712649868.460586,08:04:28,10:04:28,62,00:01:02,Firefox,Browsing
+"Click on ""Sign up"" button",Left Click,1712649873.676631,08:04:33,10:04:33,67,00:01:07,Linkedin,Social Network
+"Click on ""E-mail"" field",Left Click,1712649875.652629,08:04:35,10:04:35,69,00:01:09,Linkedin,Social Network
+"Click on ""Accept and sign-up"" button",Left Click,1712649907.748895,08:05:07,10:05:07,101,00:01:41,Linkedin,Social Network
+"Click on ""Save"" Firefox pop-up button",Left Click,1712649910.476870,08:05:10,10:05:10,104,00:01:44,Linkedin,Social Network
+"Click on ""Name"" field",Left Click,1712649911.788939,08:05:11,10:05:11,105,00:01:45,Linkedin,Social Network
+"Click on ""Continue"" button",Left Click,1712649920.757026,08:05:20,10:05:20,114,00:01:54,Linkedin,Social Network
+"Click on ""Learn more"" link",Left Click,1712649931.493002,08:05:31,10:05:31,125,00:02:05,Linkedin,Social Network
+"Click on ""CAPTCHA is not visible"" link",Left Click,1712649941.173075,08:05:41,10:05:41,135,00:02:15,Linkedin,Social Network
+Miss click,Left Click,1712649949.645162,08:05:49,10:05:49,143,00:02:23,Linkedin,Social Network
+"Close ""CAPTCHA is not visible"" tab",Left Click,1712649950.141111,08:05:50,10:05:50,144,00:02:24,Linkedin,Social Network
+"Click on ""Phone number"" field",Left Click,1712649952.085172,08:05:52,10:05:52,146,00:02:26,Linkedin,Social Network
+"Click on ""Send"" button",Left Click,1712649960.757175,08:06:00,10:06:00,154,00:02:34,Linkedin,Social Network
+"Click on ""Security code"" field",Left Click,1712649967.389218,08:06:07,10:06:07,161,00:02:41,Linkedin,Social Network
+"Click on ""Send"" button",Left Click,1712650017.149614,08:06:57,10:06:57,211,00:03:31,Linkedin,Social Network
+"Click on ""Next"" button",Left Click,1712650037.677727,08:07:17,10:07:17,231,00:03:51,Linkedin,Social Network
+"Click on ""Last job held"" field",Left Click,1712650045.197782,08:07:25,10:07:25,239,00:03:59,Linkedin,Social Network
+"Select ""Developper"" proposition",Left Click,1712650056.286093,08:07:36,10:07:36,250,00:04:10,Linkedin,Social Network
+"Click on ""Type of employment"" dropdown",Left Click,1712650058.469932,08:07:38,10:07:38,252,00:04:12,Linkedin,Social Network
+"Select ""CDI"" proposition",Left Click,1712650060.925978,08:07:40,10:07:40,255,00:04:15,Linkedin,Social Network
+"Click on ""Last company"" field",Left Click,1712650062.646030,08:07:42,10:07:42,256,00:04:16,Linkedin,Social Network
+"Click on ""Last company"" field",Left Click,1712650073.086036,08:07:53,10:07:53,267,00:04:27,Linkedin,Social Network
+Click on webpage,Left Click,1712650090.950171,08:08:10,10:08:10,285,00:04:45,Linkedin,Social Network
+"Click on ""Continue"" button",Left Click,1712650095.638284,08:08:15,10:08:15,289,00:04:49,Linkedin,Social Network
+Miss click,Left Click,1712650098.558176,08:08:18,10:08:18,292,00:04:52,Linkedin,Social Network
+"Click on ""Code"" field",Left Click,1712650101.174210,08:08:21,10:08:21,295,00:04:55,Linkedin,Social Network
+"Click on ""Previous"" Firefox icon",Left Click,1712650105.918322,08:08:25,10:08:25,300,00:05:00,Linkedin,Social Network
+Open Thunderbird window,Left Click,1712650110.502371,08:08:30,10:08:30,304,00:05:04,Thunderbird,Mail
+"Open ""Linkedin code"" mail",Left Click,1712650112.158348,08:08:32,10:08:32,306,00:05:06,Thunderbird,Mail
+Open Firefox window,Left Click,1712650116.606341,08:08:36,10:08:36,310,00:05:10,Firefox,Browsing
+"Click on ""Code"" field",Left Click,1712650117.870342,08:08:37,10:08:37,312,00:05:12,Linkedin,Social Network
+"Click on ""Code"" field",Left Click,1712650118.630349,08:08:38,10:08:38,312,00:05:12,Linkedin,Social Network
+"Click on ""No, I'm not interested in professional opportunities"" proposition",Left Click,1712650128.862472,08:08:48,10:08:48,323,00:05:23,Linkedin,Social Network
+"Click on ""Next"" button",Left Click,1712650129.990450,08:08:49,10:08:49,324,00:05:24,Linkedin,Social Network
+"Click on ""Ignore for now"" button",Left Click,1712650147.326575,08:09:07,10:09:07,341,00:05:41,Linkedin,Social Network
+"Click on ""Ignore"" button",Left Click,1712650154.582626,08:09:14,10:09:14,348,00:05:48,Linkedin,Social Network
+"Click on ""Next"" button",Left Click,1712650157.942705,08:09:17,10:09:17,352,00:05:52,Linkedin,Social Network
+Minimize Linkedin messaging dialog box,Left Click,1712650168.358789,08:09:28,10:09:28,362,00:06:02,Linkedin,Social Network
+"Click on ""Update profile"" button",Left Click,1712650172.310801,08:09:32,10:09:32,366,00:06:06,Linkedin,Social Network
+"Close ""Update profile"" dialog box",Left Click,1712650175.870823,08:09:35,10:09:35,370,00:06:10,Linkedin,Social Network
+"Click on ""You"" Linkedin button",Left Click,1712650177.094857,08:09:37,10:09:37,371,00:06:11,Linkedin,Social Network
+"Click on ""View profile"" button",Left Click,1712650181.094968,08:09:41,10:09:41,375,00:06:15,Linkedin,Social Network
+"Click on ""Edit"" Resume icon",Left Click,1712650188.606912,08:09:48,10:09:48,382,00:06:22,Linkedin,Social Network
+"Click on ""Job"" dropdown",Left Click,1712650202.167024,08:10:02,10:10:02,396,00:06:36,Linkedin,Social Network
+"Click on ""Job"" dropdown",Left Click,1712650203.799055,08:10:03,10:10:03,397,00:06:37,Linkedin,Social Network
+"Close ""Edit"" Resume dialog box",Left Click,1712650207.095159,08:10:07,10:10:07,401,00:06:41,Linkedin,Social Network
+"Click on ""Edit"" Experience icon",Left Click,1712650212.359125,08:10:12,10:10:12,406,00:06:46,Linkedin,Social Network
+"Click on ""Edit"" developer experience icon",Left Click,1712650214.695140,08:10:14,10:10:14,408,00:06:48,Linkedin,Social Network
+"Click on ""Company name"" field",Left Click,1712650219.351157,08:10:19,10:10:19,413,00:06:53,Linkedin,Social Network
+"Click on ""Company name"" field",Left Click,1712650226.783221,08:10:26,10:10:26,420,00:07:00,Linkedin,Social Network
+"Click on ""Company name"" field",Left Click,1712650233.799307,08:10:33,10:10:33,427,00:07:07,Linkedin,Social Network
+"Click on ""Save"" edit experience dialog box",Left Click,1712650239.575356,08:10:39,10:10:39,433,00:07:13,Linkedin,Social Network
+"Click on ""Month"" dropdown",Left Click,1712650244.327396,08:10:44,10:10:44,438,00:07:18,Linkedin,Social Network
+"Select ""February"" proposition",Left Click,1712650246.831409,08:10:46,10:10:46,441,00:07:21,Linkedin,Social Network
+"Click on ""Year"" dropdown",Left Click,1712650248.151418,08:10:48,10:10:48,442,00:07:22,Linkedin,Social Network
+"Select ""2022"" proposition",Left Click,1712650251.967506,08:10:51,10:10:51,446,00:07:26,Linkedin,Social Network
+"Click on ""Sector"" field",Left Click,1712650255.479510,08:10:55,10:10:55,449,00:07:29,Linkedin,Social Network
+"Select ""IT services and consulting"" proposition",Left Click,1712650261.431544,08:11:01,10:11:01,455,00:07:35,Linkedin,Social Network
+"Click on ""Save"" button",Left Click,1712650263.935549,08:11:03,10:11:03,458,00:07:38,Linkedin,Social Network
+"Click on ""pass"" button",Left Click,1712650270.367642,08:11:10,10:11:10,464,00:07:44,Linkedin,Social Network
+Close Linkedin dialog box,Left Click,1712650273.855640,08:11:13,10:11:13,468,00:07:48,Linkedin,Social Network
+"Click on ""Back"" Linkedin icon",Left Click,1712650275.471681,08:11:15,10:11:15,469,00:07:49,Linkedin,Social Network
+Click on Linkedin search bar,Left Click,1712650287.831760,08:11:27,10:11:27,482,00:08:02,Linkedin,Social Network
+"Click on ""david brosset"" proposition",Left Click,1712650295.199881,08:11:35,10:11:35,489,00:08:09,Linkedin,Social Network
+Close Linkedin pop-up,Left Click,1712650302.567885,08:11:42,10:11:42,496,00:08:16,Linkedin,Social Network
+"Click on ""Connect"" button",Left Click,1712650306.023920,08:11:46,10:11:46,500,00:08:20,Linkedin,Social Network
+"Click on ""Send without note"" button",Left Click,1712650309.599952,08:11:49,10:11:49,503,00:08:23,Linkedin,Social Network
+"Click on ""David Brosset"" profil",Left Click,1712650314.952086,08:11:54,10:11:54,509,00:08:29,Linkedin,Social Network
+"Click on ""Open a new tab"" Firefox icon",Left Click,1712650327.784167,08:12:07,10:12:07,521,00:08:41,Firefox,Browsing
+Click on Firefox url bar,Left Click,1712650328.616131,08:12:08,10:12:08,522,00:08:42,Firefox,Browsing
+Go to Facebook website,ENTER Key,1712650331.224206,08:12:11,10:12:11,525,00:08:45,Firefox,Browsing
+"Click on ""Log In"" button",Left Click,1712650335.784182,08:12:15,10:12:15,529,00:08:49,Facebook,Social Network
+"Click on ""Open a new tab"" Firefox icon",Left Click,1712650340.336228,08:12:20,10:12:20,534,00:08:54,Facebook,Social Network
+Click on Firefox url bar,Left Click,1712650341.944233,08:12:21,10:12:21,536,00:08:56,Firefox,Browsing
+"Search ""start wars"" on Google",ENTER Key,1712650346.712334,08:12:26,10:12:26,540,00:09:00,Firefox,Browsing
+"Click on ""Images"" button",Left Click,1712650348.776298,08:12:28,10:12:28,542,00:09:02,Firefox,Browsing
+"Click on ""Google search"" field",Left Click,1712650357.272379,08:12:37,10:12:37,551,00:09:11,Firefox,Browsing
+"Search ""star wars jaba"" on Google",ENTER Key,1712650358.776450,08:12:38,10:12:38,552,00:09:12,Firefox,Browsing
+"Double-click on ""jaba"" string in ""Google search"" field (1)",Left Click,1712650363.976473,08:12:43,10:12:43,558,00:09:18,Firefox,Browsing
+"Double-click on ""jaba"" string in ""Google search"" field (2)",Left Click,1712650364.144486,08:12:44,10:12:44,558,00:09:18,Firefox,Browsing
+"Click on ""star wars jar jar binks"" proposition",Left Click,1712650367.736592,08:12:47,10:12:47,561,00:09:21,Firefox,Browsing
+"Click on ""Jar Jar Binks"" picture",Left Click,1712650379.640646,08:12:59,10:12:59,573,00:09:33,Firefox,Browsing
+"Open context menu of ""Jar Jar Binks"" picture",Right Click,1712650382.600647,08:13:02,10:13:02,576,00:09:36,Firefox,Browsing
+"Click on ""Open Image in New Tab"" proposition",Left Click,1712650393.680781,08:13:13,10:13:13,587,00:09:47,Firefox,Browsing
+"Move to ""Jar Jar Binks"" picture tab",Left Click,1712650395.016707,08:13:15,10:13:15,589,00:09:49,Firefox,Browsing
+"Open context menu of ""Jar Jar Binks"" picture",Right Click,1712650396.480726,08:13:16,10:13:16,590,00:09:50,Firefox,Browsing
+"Click on ""Save Image As..."" proposition",Left Click,1712650397.472834,08:13:17,10:13:17,591,00:09:51,Firefox,Browsing
+"Click on ""Save"" button",Left Click,1712650401.704772,08:13:21,10:13:21,595,00:09:55,Firefox,Browsing
+Move to Facebook tab,Left Click,1712650404.848803,08:13:24,10:13:24,599,00:09:59,Firefox,Browsing
+Miss click,Left Click,1712650406.937007,08:13:26,10:13:26,601,00:10:01,Facebook,Social Network
+"Click on ""Add Picture"" button",Left Click,1712650407.648826,08:13:27,10:13:27,601,00:10:01,Facebook,Social Network
+"Click on ""+ Upload photo"" button",Left Click,1712650410.512852,08:13:30,10:13:30,604,00:10:04,Facebook,Social Network
+"Double-click on ""Jar Jar Binks"" picture (1)",Left Click,1712650413.344878,08:13:33,10:13:33,607,00:10:07,Facebook,Social Network
+"Double-click on ""Jar Jar Binks"" picture (2)",Left Click,1712650413.528880,08:13:33,10:13:33,607,00:10:07,Facebook,Social Network
+Drag picture to reposition it,Left Click,1712650421.209034,08:13:41,10:13:41,615,00:10:15,Facebook,Social Network
+"Click on ""Save"" button",Left Click,1712650427.313009,08:13:47,10:13:47,621,00:10:21,Facebook,Social Network
+"Click on ""Video"" button",Left Click,1712650442.121146,08:14:02,10:14:02,636,00:10:36,Facebook,Social Network
+"Play ""5 Minutes Tricks"" video",Left Click,1712650460.401482,08:14:20,10:14:20,654,00:10:54,Facebook,Social Network
+"Like ""5 Minutes Tricks"" video",Left Click,1712650526.041945,08:15:26,10:15:26,720,00:12:00,Facebook,Social Network
+Close Facebook tab,Left Click,1712650530.705989,08:15:30,10:15:30,724,00:12:04,Facebook,Social Network
+"Close ""star wars jar jar binks"" search",Left Click,1712650532.322076,08:15:32,10:15:32,726,00:12:06,Firefox,Browsing
+"Close ""Jar Jar Binks"" picture",Left Click,1712650533.162034,08:15:33,10:15:33,727,00:12:07,Firefox,Browsing
+"Click on ""Open a new tab"" Firefox icon",Left Click,1712650534.994074,08:15:34,10:15:34,729,00:12:09,Firefox,Browsing
+Open Thunderbird window,Left Click,1712650542.058147,08:15:42,10:15:42,736,00:12:16,Thunderbird,Mail
+"Click on ""+ New Message"" button",Left Click,1712650545.738153,08:15:45,10:15:45,739,00:12:19,Thunderbird,Mail
+"Click on ""To"" field",Left Click,1712650547.754237,08:15:47,10:15:47,741,00:12:21,Thunderbird,Mail
+"Click on ""Subject"" field",Left Click,1712650556.826295,08:15:56,10:15:56,751,00:12:31,Thunderbird,Mail
+"Click on ""Message"" field",Left Click,1712650560.722292,08:16:00,10:16:00,754,00:12:34,Thunderbird,Mail
+Line break,ENTER Key,1712650564.162355,08:16:04,10:16:04,758,00:12:38,Thunderbird,Mail
+Line break,ENTER Key,1712650581.690599,08:16:21,10:16:21,775,00:12:55,Thunderbird,Mail
+"Click on ""Smiley"" dropdown",Left Click,1712650643.931098,08:17:23,10:17:23,838,00:13:58,Thunderbird,Mail
+"Click on ""Smile"" proposition",Left Click,1712650648.187228,08:17:28,10:17:28,842,00:14:02,Thunderbird,Mail
+"Click on ""Send"" button",Left Click,1712650663.683341,08:17:43,10:17:43,857,00:14:17,Thunderbird,Mail
+Minimize Thunderbird window,Left Click,1712650675.939460,08:17:55,10:17:55,870,00:14:30,Thunderbird,Mail
+Click on Firefox url bar,Left Click,1712650678.211455,08:17:58,10:17:58,872,00:14:32,Firefox,Browsing
+"Search ""vscode"" on Google",ENTER Key,1712650682.659531,08:18:02,10:18:02,876,00:14:36,Firefox,Browsing
+Close Lindedin tab,Left Click,1712650685.883513,08:18:05,10:18:05,880,00:14:40,Firefox,Browsing
+"Click on ""Google search"" field",Left Click,1712650690.035557,08:18:10,10:18:10,884,00:14:44,Firefox,Browsing
+"Search ""vscode ubuntu install"" on Google",ENTER Key,1712650693.347632,08:18:13,10:18:13,887,00:14:47,Firefox,Browsing
+"Open ""Running Visual Studio Code on linux"" link",Wheel Click,1712650701.219711,08:18:21,10:18:21,895,00:14:55,Firefox,Browsing
+"Move to ""Running Visual Studio Code on linux"" tab",Left Click,1712650702.731691,08:18:22,10:18:22,896,00:14:56,Firefox,Browsing
+Open terminal app,Left Click,1712650726.603937,08:18:46,10:18:46,920,00:15:20,Terminal,System
+Drag terminal window,Left Click,1712650729.291958,08:18:49,10:18:49,923,00:15:23,Terminal,System
+Click on terminal command field,Left Click,1712650729.724181,08:18:49,10:18:49,923,00:15:23,Terminal,System
+"Run ""sudo apt install code"" command",ENTER Key,1712650744.532147,08:19:04,10:19:04,938,00:15:38,Terminal,System_Download
+Validate password,ENTER Key,1712650750.796216,08:19:10,10:19:10,944,00:15:44,Terminal,System_Download
+Click on background Firefox window,Left Click,1712650755.428223,08:19:15,10:19:15,949,00:15:49,Firefox,Browsing
+"Open "".deb package (64-bit)"" link",Left Click,1712650760.276288,08:19:20,10:19:20,954,00:15:54,Firefox,Browsing_Download
+Open terminal window,Left Click,1712650772.052379,08:19:32,10:19:32,966,00:16:06,Terminal,System
+Click on terminal command field,Left Click,1712650773.460395,08:19:33,10:19:33,967,00:16:07,Terminal,System
+"Run ""cd Downloads"" command",ENTER Key,1712650782.492527,08:19:42,10:19:42,976,00:16:16,Terminal,System
+"Run ""ls"" command",ENTER Key,1712650784.044546,08:19:44,10:19:44,978,00:16:18,Terminal,System
+"Click on ""Download"" Firefox icon",Left Click,1712650798.380649,08:19:58,10:19:58,992,00:16:32,Firefox,Browsing
+Click on Firefox window,Left Click,1712650806.076730,08:20:06,10:20:06,1000,00:16:40,Firefox,Browsing
+Open terminal window,Left Click,1712650810.812804,08:20:10,10:20:10,1005,00:16:45,Terminal,System
+Click on terminal command field,Left Click,1712650811.956810,08:20:11,10:20:11,1006,00:16:46,Terminal,System
+Click on terminal command field,Left Click,1712650814.364870,08:20:14,10:20:14,1008,00:16:48,Terminal,System
+"Run ""ls"" command",ENTER Key,1712650819.972914,08:20:19,10:20:19,1014,00:16:54,Terminal,System
+"Double-click ""code_1.88.0-1712152114_amd64.deb"" (1)",Left Click,1712650826.940972,08:20:26,10:20:26,1021,00:17:01,Terminal,System
+"Double-click ""code_1.88.0-1712152114_amd64.deb"" (2)",Left Click,1712650827.156983,08:20:27,10:20:27,1021,00:17:01,Terminal,System
+"Paste ""code_1.88.0-1712152114_amd64.deb""  selection",Wheel Click,1712650827.916968,08:20:27,10:20:27,1022,00:17:02,Terminal,System
+"Run ""sudo apt install code_1.88.0-1712152114_amd64.deb"" command",ENTER Key,1712650828.605033,08:20:28,10:20:28,1022,00:17:02,Terminal,System
+Miss click,Left Click,1712650836.477090,08:20:36,10:20:36,1030,00:17:10,Terminal,System
+Drag terminal window,Left Click,1712650844.349343,08:20:44,10:20:44,1038,00:17:18,Terminal,System
+Click on terminal command field,Left Click,1712650845.213229,08:20:45,10:20:45,1039,00:17:19,Terminal,System
+"Run ""sudo apt install ./code_1.88.0-1712152114_amd64.deb"" command",ENTER Key,1712650849.517227,08:20:49,10:20:49,1043,00:17:23,Terminal,System
+"Run ""sudo dpkg -i code_1.88.0-1712152114_amd64.deb"" command",ENTER Key,1712650888.773632,08:21:28,10:21:28,1082,00:18:02,Terminal,System
+"Click on Thunderbird ""Visio link"" mail pop-up",Left Click,1712650905.117757,08:21:45,10:21:45,1099,00:18:19,Thunderbird,Mail
+"Click on Thunderbird ""Visio link"" mail pop-up",Left Click,1712650906.829765,08:21:46,10:21:46,1101,00:18:21,Thunderbird,Mail
+Miss click,Left Click,1712650910.165873,08:21:50,10:21:50,1104,00:18:24,Thunderbird,Mail
+Open terminal window,Left Click,1712650925.854016,08:22:05,10:22:05,1120,00:18:40,Terminal,System
+Click on terminal command field,Left Click,1712650928.853997,08:22:08,10:22:08,1123,00:18:43,Terminal,System
+"Run ""code"" command",ENTER Key,1712650932.486094,08:22:12,10:22:12,1126,00:18:46,Terminal,System
+Drag VScode window,Left Click,1712650940.766114,08:22:20,10:22:20,1134,00:18:54,VScode,Development
+"Click on ""Dark Modern"" VScode icon",Left Click,1712650948.526250,08:22:28,10:22:28,1142,00:19:02,VScode,Development
+Drag VScode scrollbar,Left Click,1712650951.334454,08:22:31,10:22:31,1145,00:19:05,VScode,Development
+"Click on ""Rich support for all your languages"" radio button",Left Click,1712650952.206275,08:22:32,10:22:32,1146,00:19:06,VScode,Development
+"Click on ""Tune your settings"" radio button",Left Click,1712650953.870478,08:22:33,10:22:33,1148,00:19:08,VScode,Development
+"Click on ""Sync settings accross devices"" radio button",Left Click,1712650955.566365,08:22:35,10:22:35,1149,00:19:09,VScode,Development
+"Click on ""Unlock productivity with the command Palette"" radio button",Left Click,1712650965.758391,08:22:45,10:22:45,1159,00:19:19,VScode,Development
+"Click on ""Open up your code"" radio button",Left Click,1712650967.190450,08:22:47,10:22:47,1161,00:19:21,VScode,Development
+"Click on ""Mark Done"" button",Left Click,1712650970.198436,08:22:50,10:22:50,1164,00:19:24,VScode,Development
+Minimize VScode window,Left Click,1712650973.774505,08:22:53,10:22:53,1167,00:19:27,VScode,Development
+Minimize terminal window,Left Click,1712650975.934512,08:22:55,10:22:55,1170,00:19:30,Terminal,System
+"Click on ""Google Meet"" Thunderbird mail link",Left Click,1712650977.598611,08:22:57,10:22:57,1171,00:19:31,Thunderbird,Mail
+"Close ""Running Visual Studio Code on linux"" tab",Wheel Click,1712650980.598573,08:23:00,10:23:00,1174,00:19:34,Firefox,Browsing
+"Close ""vscode ubuntu install"" Google search tab",Wheel Click,1712650981.374549,08:23:01,10:23:01,1175,00:19:35,Firefox,Browsing
+"Click on ""Allow"" Firefox pop-up button",Left Click,1712650993.470774,08:23:13,10:23:13,1187,00:19:47,Google Meet,Visioconference
+"Click on ""Turn off microphone"" icon",Left Click,1712650998.182844,08:23:18,10:23:18,1192,00:19:52,Google Meet,Visioconference
+"Click on ""Turn on camera"" icon",Left Click,1712650999.622760,08:23:19,10:23:19,1193,00:19:53,Google Meet,Visioconference
+"Click on ""Dismiss"" Google Meet pop-up button ",Left Click,1712651001.238759,08:23:21,10:23:21,1195,00:19:55,Google Meet,Visioconference
+"Click on ""Your name"" field",Left Click,1712651002.678779,08:23:22,10:23:22,1196,00:19:56,Google Meet,Visioconference
+"Double-click ""Your name"" field content (1)",Left Click,1712651009.326846,08:23:29,10:23:29,1203,00:20:03,Google Meet,Visioconference
+"Double-click ""Your name"" field content (2)",Left Click,1712651009.510845,08:23:29,10:23:29,1203,00:20:03,Google Meet,Visioconference
+Miss click,Left Click,1712651019.215011,08:23:39,10:23:39,1213,00:20:13,Google Meet,Visioconference
+Click on VMware camera context menu,Right Click,1712651028.159086,08:23:48,10:23:48,1222,00:20:22,VMWare,Other
+"Click on ""Connect (Disconnect from host)"" proposition",Left Click,1712651030.535100,08:23:50,10:23:50,1224,00:20:24,VMWare,Other
+"Click on ""OK"" VMware pop-up button",Left Click,1712651032.351130,08:23:52,10:23:52,1226,00:20:26,VMWare,Other
+"Click on ""Turn on camera"" icon",Left Click,1712651035.135157,08:23:55,10:23:55,1229,00:20:29,Google Meet,Visioconference
+"Click on ""Allow camera"" button",Left Click,1712651036.839149,08:23:56,10:23:56,1231,00:20:31,Google Meet,Visioconference
+"Click on ""Allow"" Firefox pop-up button",Left Click,1712651041.119184,08:24:01,10:24:01,1235,00:20:35,Google Meet,Visioconference
+"Click on ""Ask to join"" button",Left Click,1712651074.287563,08:24:34,10:24:34,1268,00:21:08,Google Meet,Visioconference
+"Click on ""Activities"" Ubuntu button",Left Click,1712651097.831815,08:24:57,10:24:57,1292,00:21:32,Ubuntu,System
+"Close ""Activities"" Ubuntu menu",Left Click,1712651107.615886,08:25:07,10:25:07,1301,00:21:41,Ubuntu,System
+"Click on ""List all tabs"" Ubuntu button",Left Click,1712651114.087935,08:25:14,10:25:14,1308,00:21:48,Ubuntu,System
+"Click on ""Settings"" proposition",Left Click,1712651115.463992,08:25:15,10:25:15,1309,00:21:49,Ubuntu,System
+"Click on ""Search"" icon",Left Click,1712651123.608092,08:25:23,10:25:23,1317,00:21:57,Ubuntu,System
+"Click on ""Search"" field",Left Click,1712651124.584127,08:25:24,10:25:24,1318,00:21:58,Ubuntu,System
+"Click on ""Search"" field",Left Click,1712651146.472326,08:25:46,10:25:46,1340,00:22:20,Ubuntu,System
+"Click on ""Sound"" dropdown",Left Click,1712651148.896338,08:25:48,10:25:48,1343,00:22:23,Ubuntu,System
+"Select ""Analog Output"" proposition",Left Click,1712651151.992354,08:25:51,10:25:51,1346,00:22:26,Ubuntu,System
+"Click on ""Output Device"" proposition",Left Click,1712651152.680392,08:25:52,10:25:52,1346,00:22:26,Ubuntu,System
+"Click on ""Test"" button",Left Click,1712651157.448410,08:25:57,10:25:57,1351,00:22:31,Ubuntu,System
+"Click on ""Front Right"" button",Left Click,1712651160.576444,08:26:00,10:26:00,1354,00:22:34,Ubuntu,System
+"Close ""Testing Analog Output"" window",Left Click,1712651162.784490,08:26:02,10:26:02,1356,00:22:36,Ubuntu,System
+"Close ""Settings"" window",Left Click,1712651165.912499,08:26:05,10:26:05,1360,00:22:40,Ubuntu,System
+"Click on ""Rejoin""  button",Left Click,1712651181.488673,08:26:21,10:26:21,1375,00:22:55,Google Meet,Visioconference
+"Click on ""Your name"" field",Left Click,1712651200.168949,08:26:40,10:26:40,1394,00:23:14,Google Meet,Visioconference
+"Click on ""Present"" button",Left Click,1712651207.848950,08:26:47,10:26:47,1402,00:23:22,Google Meet,Visioconference
+"Click on ""Allow"" Firefox pop-up button",Left Click,1712651212.929045,08:26:52,10:26:52,1407,00:23:27,Google Meet,Visioconference
+"Click on ""Turn on camera"" icon",Left Click,1712651216.361000,08:26:56,10:26:56,1410,00:23:30,Google Meet,Visioconference
+Open Thunderbird window,Left Click,1712651225.673106,08:27:05,10:27:05,1419,00:23:39,Thunderbird,Mail
+"Click on ""Reply"" button",Left Click,1712651229.121096,08:27:09,10:27:09,1423,00:23:43,Thunderbird,Mail
+"Click on ""Send"" button",Left Click,1712651238.593125,08:27:18,10:27:18,1432,00:23:52,Thunderbird,Mail
+Minimize Thunderbird window,Left Click,1712651251.105205,08:27:31,10:27:31,1445,00:24:05,Thunderbird,Mail
+Open VScode window,Left Click,1712651266.801315,08:27:46,10:27:46,1460,00:24:20,VScode,Development
+Drag VScode window,Left Click,1712651269.681331,08:27:49,10:27:49,1463,00:24:23,VScode,Development
+"Click on ""New File..."" button",Left Click,1712651274.193314,08:27:54,10:27:54,1468,00:24:28,VScode,Development
+Click on Firefox window,Left Click,1712651277.353360,08:27:57,10:27:57,1471,00:24:31,Firefox,Browsing
+"Click on ""Turn off camera"" icon",Left Click,1712651280.121376,08:28:00,10:28:00,1474,00:24:34,Google Meet,Visioconference
+"Click on ""Open a new tab"" Firefox icon",Left Click,1712651289.337453,08:28:09,10:28:09,1483,00:24:43,Firefox,Browsing
+"Search ""linkd"" on Google",ENTER Key,1712651293.777486,08:28:13,10:28:13,1487,00:24:47,Firefox,Browsing
+"Click on ""Linkedin"" link",Left Click,1712651296.361457,08:28:16,10:28:16,1490,00:24:50,Firefox,Browsing
+"Move to ""Google Meet"" tab",Left Click,1712651303.633499,08:28:23,10:28:23,1497,00:24:57,Firefox,Browsing
+"Move to ""Linkedin"" tab",Left Click,1712651311.569547,08:28:31,10:28:31,1505,00:25:05,Firefox,Browsing
+"Click on ""Network"" Linkedin button",Left Click,1712651320.825604,08:28:40,10:28:40,1515,00:25:15,Linkedin,Social Network
+"Click on ""Ignore"" button",Left Click,1712651326.065636,08:28:46,10:28:46,1520,00:25:20,Linkedin,Social Network
+Close Linkedin tab,Left Click,1712651333.377769,08:28:53,10:28:53,1527,00:25:27,Firefox,Browsing
+"Click on ""More options"" video icon",Left Click,1712651344.953767,08:29:04,10:29:04,1539,00:25:39,Google Meet,Visioconference
+Click on Firefox window,Left Click,1712651346.745774,08:29:06,10:29:06,1540,00:25:40,Google Meet,Visioconference
+"Click on ""Back"" Firefox icon",Left Click,1712651349.961844,08:29:09,10:29:09,1544,00:25:44,Google Meet,Visioconference
+"Click on ""Back"" Firefox icon",Left Click,1712651351.577800,08:29:11,10:29:11,1545,00:25:45,Google Meet,Visioconference
+"Close ""Google Meet"" tab",Left Click,1712651355.793829,08:29:15,10:29:15,1549,00:25:49,Google Meet,Visioconference
+Open Thunderbird window,Left Click,1712651361.873894,08:29:21,10:29:21,1556,00:25:56,Thunderbird,Mail
+"Click on ""Google Meet"" Thunderbird mail link",Left Click,1712651365.537904,08:29:25,10:29:25,1559,00:25:59,Thunderbird,Mail
+"Click on ""Your name"" field",Left Click,1712651374.913958,08:29:34,10:29:34,1569,00:26:09,Google Meet,Visioconference
+"Click on ""Allow"" Firefox pop-up button",Left Click,1712651378.642019,08:29:38,10:29:38,1572,00:26:12,Google Meet,Visioconference
+"Click on ""Turn off microphone"" icon",Left Click,1712651382.626008,08:29:42,10:29:42,1576,00:26:16,Google Meet,Visioconference
+"Click on ""Turn off camera"" icon",Left Click,1712651383.514007,08:29:43,10:29:43,1577,00:26:17,Google Meet,Visioconference
+"Click on ""Your name"" field",Left Click,1712651384.634068,08:29:44,10:29:44,1578,00:26:18,Google Meet,Visioconference
+"Click on ""Ask to join"" button",Left Click,1712651395.346081,08:29:55,10:29:55,1589,00:26:29,Google Meet,Visioconference
+Miss click,Left Click,1712651405.274225,08:30:05,10:30:05,1599,00:26:39,Google Meet,Visioconference
+Open Thunderbird window,Left Click,1712651408.618186,08:30:08,10:30:08,1602,00:26:42,Thunderbird,Mail
+"Click on ""Google Meet"" Thunderbird mail link",Left Click,1712651410.970236,08:30:10,10:30:10,1605,00:26:45,Thunderbird,Mail
+"Close ""Google Meet"" tab",Wheel Click,1712651412.978214,08:30:12,10:30:12,1607,00:26:47,Firefox,Browsing
+"Click on ""Allow"" Firefox pop-up button",Left Click,1712651417.346243,08:30:17,10:30:17,1611,00:26:51,Google Meet,Visioconference
+"Click on ""Turn off microphone"" icon",Left Click,1712651427.658328,08:30:27,10:30:27,1621,00:27:01,Google Meet,Visioconference
+"Click on ""Turn off camera"" icon",Left Click,1712651428.306327,08:30:28,10:30:28,1622,00:27:02,Google Meet,Visioconference
+"Click on ""Got it"" Google Meet pop-up",Left Click,1712651437.122416,08:30:37,10:30:37,1631,00:27:11,Google Meet,Visioconference
+"Click on ""Sign in"" button",Left Click,1712651441.642470,08:30:41,10:30:41,1635,00:27:15,Google Meet,Visioconference
+"Click on ""Email or phone"" field",Left Click,1712651449.578579,08:30:49,10:30:49,1643,00:27:23,Google Meet,Visioconference
+Miss click,Left Click,1712651452.410541,08:30:52,10:30:52,1646,00:27:26,Google Meet,Visioconference
+Miss click,Left Click,1712651464.770595,08:31:04,10:31:04,1658,00:27:38,Google Meet,Visioconference
+Open VScode window,Left Click,1712651472.090636,08:31:12,10:31:12,1666,00:27:46,VScode,Development
+Click on Firefox window,Left Click,1712651477.162665,08:31:17,10:31:17,1671,00:27:51,Firefox,Browsing
+Click on Firefox url bar,Left Click,1712651477.666709,08:31:17,10:31:17,1671,00:27:51,Firefox,Browsing
+"Search ""vscode learn python"" on Google",ENTER Key,1712651483.946795,08:31:23,10:31:23,1678,00:27:58,Firefox,Browsing
+"Open ""Python Tutorial for Beginners with VS Code"" Youtube video",Left Click,1712651490.274850,08:31:30,10:31:30,1684,00:28:04,Firefox,Browsing
+Start Youtube video,Left Click,1712651496.642807,08:31:36,10:31:36,1690,00:28:10,Youtube,Streaming
+"Click on ""Skip"" button",Left Click,1712651505.290867,08:31:45,10:31:45,1699,00:28:19,Youtube,Streaming
+"Click on ""No thanks"" Youtube pop-up button",Left Click,1712651513.378931,08:31:53,10:31:53,1707,00:28:27,Youtube,Streaming
+Move forward video to 3:01,Left Click,1712651534.467096,08:32:14,10:32:14,1728,00:28:48,Youtube,Streaming
+Open VScode window,Left Click,1712651548.763205,08:32:28,10:32:28,1742,00:29:02,Youtube_VScode,Streaming_Development
+Drag VScode window,Left Click,1712651553.579274,08:32:33,10:32:33,1747,00:29:07,Youtube_VScode,Streaming_Development
+"Close VScode ""Welcome"" tab",Left Click,1712651556.179258,08:32:36,10:32:36,1750,00:29:10,Youtube_VScode,Streaming_Development
+"Click on ""Extensions"" icon",Left Click,1712651559.099283,08:32:39,10:32:39,1753,00:29:13,Youtube_VScode,Streaming_Development
+Drag VScode window,Left Click,1712651563.667318,08:32:43,10:32:43,1757,00:29:17,Youtube_VScode,Streaming_Development
+Click on VScode search bar,Left Click,1712651565.763339,08:32:45,10:32:45,1759,00:29:19,Youtube_VScode,Streaming_Development
+Click on python proposition,Left Click,1712651589.667524,08:33:09,10:33:09,1783,00:29:43,Youtube_VScode,Streaming_Development
+Drag VScode window,Left Click,1712651593.787556,08:33:13,10:33:13,1787,00:29:47,Youtube_VScode,Streaming_Development
+"Click on ""Install"" button",Left Click,1712651600.499609,08:33:20,10:33:20,1794,00:29:54,Youtube_VScode,Streaming_Development
+Drag VScode window,Left Click,1712651608.971675,08:33:28,10:33:28,1803,00:30:03,Youtube_VScode,Streaming_Development
+Drag VScode window,Left Click,1712651616.323736,08:33:36,10:33:36,1810,00:30:10,Youtube_VScode,Streaming_Development
+Drag VScode window,Left Click,1712651621.475784,08:33:41,10:33:41,1815,00:30:15,Youtube_VScode,Streaming_Development
+Click on VScode window,Left Click,1712651622.859790,08:33:42,10:33:42,1817,00:30:17,Youtube_VScode,Streaming_Development
+Click on VScode search bar,Left Click,1712651629.003842,08:33:49,10:33:49,1823,00:30:23,Youtube_VScode,Streaming_Development
+"Click on ""Pause"" Youtube video button",Left Click,1712651649.436021,08:34:09,10:34:09,1843,00:30:43,Youtube_VScode,Streaming_Development
+Open VScode window,Left Click,1712651651.204024,08:34:11,10:34:11,1845,00:30:45,VScode,Development
+Open Thunderbird window,Left Click,1712651652.020027,08:34:12,10:34:12,1846,00:30:46,Thunderbird,Mail
+Minimize Thunderbird window,Left Click,1712651654.236046,08:34:14,10:34:14,1848,00:30:48,Thunderbird,Mail
+Drag VScode window,Left Click,1712651657.076069,08:34:17,10:34:17,1851,00:30:51,VScode,Development
+"Click on ""Refresh Extensions: Marketplace"" VScode icon",Left Click,1712651664.188124,08:34:24,10:34:24,1858,00:30:58,VScode,Development
+Drag VScode window,Left Click,1712651667.468156,08:34:27,10:34:27,1861,00:31:01,VScode,Development
+"Close ""Welcome"" VScode tab",Left Click,1712651686.444383,08:34:46,10:34:46,1880,00:31:20,VScode,Development
+Click on VScode window,Left Click,1712651687.332390,08:34:47,10:34:47,1881,00:31:21,VScode,Development
+"Click on ""Play"" Youtube video button",Left Click,1712651693.092425,08:34:53,10:34:53,1887,00:31:27,Youtube,Streaming
+Open VScode window,Left Click,1712651695.628401,08:34:55,10:34:55,1889,00:31:29,Youtube_VScode,Streaming_Development
+Drag VScode window,Left Click,1712651697.436418,08:34:57,10:34:57,1891,00:31:31,Youtube_VScode,Streaming_Development
+Click on VScode window,Left Click,1712651698.084426,08:34:58,10:34:58,1892,00:31:32,Youtube_VScode,Streaming_Development
+"Click on ""Python: Select interpreter"" proposition",Left Click,1712651718.772600,08:35:18,10:35:18,1912,00:31:52,Youtube_VScode,Streaming_Development
+"Click on ""Python 3.10.12 64-bit /usr/bin/python3"" proposition",Left Click,1712651723.868639,08:35:23,10:35:23,1918,00:31:58,Youtube_VScode,Streaming_Development
+Drag VScode window,Left Click,1712651730.892689,08:35:30,10:35:30,1925,00:32:05,Youtube_VScode,Streaming_Development
+"Click on ""EXPLORER"" VScode icon",Left Click,1712651732.364762,08:35:32,10:35:32,1926,00:32:06,Youtube_VScode,Streaming_Development
+Drag VScode window,Left Click,1712651738.380769,08:35:38,10:35:38,1932,00:32:12,Youtube_VScode,Streaming_Development
+"Click on ""Terminal"" menu button",Left Click,1712651739.012773,08:35:39,10:35:39,1933,00:32:13,Youtube_VScode,Streaming_Development
+"Click on ""New Terminal"" proposition",Left Click,1712651740.148790,08:35:40,10:35:40,1934,00:32:14,Youtube_VScode,Streaming_Development
+Drag VScode window,Left Click,1712651746.132834,08:35:46,10:35:46,1940,00:32:20,Youtube_VScode,Streaming_Development
+Drag VScode window,Left Click,1712651751.196880,08:35:51,10:35:51,1945,00:32:25,Youtube_VScode,Streaming_Development
+Drag VScode window,Left Click,1712651764.684994,08:36:04,10:36:04,1958,00:32:38,Youtube_VScode,Streaming_Development
+Click on Firefox window,Left Click,1712651767.373012,08:36:07,10:36:07,1961,00:32:41,Youtube_VScode,Streaming_Development
+Move forward video to 9:30,Left Click,1712651783.133157,08:36:23,10:36:23,1977,00:32:57,Youtube,Streaming
+Move forward video to 10:40,Left Click,1712651823.053499,08:37:03,10:37:03,2017,00:33:37,Youtube,Streaming
+Move forward video to 11:06,Left Click,1712651824.877515,08:37:04,10:37:04,2019,00:33:39,Youtube,Streaming
+"Click on ""Pause"" Youtube video button",Left Click,1712651827.141534,08:37:07,10:37:07,2021,00:33:41,Youtube,Streaming
+Open VScode window,Left Click,1712651830.397567,08:37:10,10:37:10,2024,00:33:44,VScode,Development
+"Click on VScode ""Open Folder"" button",Left Click,1712651833.605631,08:37:13,10:37:13,2027,00:33:47,VScode,Development
+"Double-click on ""Documents"" (1)",Left Click,1712651837.269721,08:37:17,10:37:17,2031,00:33:51,VScode,Development
+"Double-click on ""Documents"" (2)",Left Click,1712651837.477734,08:37:17,10:37:17,2031,00:33:51,VScode,Development
+"Click on ""Create repository"" icon",Left Click,1712651839.445647,08:37:19,10:37:19,2033,00:33:53,VScode,Development
+"Click on ""Folder name"" field",Left Click,1712651840.653684,08:37:20,10:37:20,2034,00:33:54,VScode,Development
+"Click on ""Create"" button",Left Click,1712651846.213710,08:37:26,10:37:26,2040,00:34:00,VScode,Development
+"Click on ""Open"" button",Left Click,1712651847.701766,08:37:27,10:37:27,2041,00:34:01,VScode,Development
+"Click on ""New file"" VScode icon",Left Click,1712651852.493755,08:37:32,10:37:32,2046,00:34:06,VScode,Development
+"Click on ""Trust Folder & Continue"" VScode pop-up button",Left Click,1712651859.005822,08:37:39,10:37:39,2053,00:34:13,VScode,Development
+"Check ""Trust the authors of all files in the parent folder 'Documents'"" checkbox",Left Click,1712651862.013836,08:37:42,10:37:42,2056,00:34:16,VScode,Development
+"Click on ""Yes, I trust the authors"" VScode pop-up button",Left Click,1712651862.765842,08:37:42,10:37:42,2056,00:34:16,VScode,Development
+"Click on ""Create Python File"" button",Left Click,1712651865.629899,08:37:45,10:37:45,2059,00:34:19,VScode,Development
+"Click on ""Create Python File"" button",Left Click,1712651869.941917,08:37:49,10:37:49,2064,00:34:24,VScode,Development
+"Close ""Welcome"" VScode tab",Left Click,1712651872.421944,08:37:52,10:37:52,2066,00:34:26,VScode,Development
+Click on VScode text zone,Left Click,1712651874.917957,08:37:54,10:37:54,2069,00:34:29,VScode,Development
+Click on VScode text zone,Left Click,1712651875.565978,08:37:55,10:37:55,2069,00:34:29,VScode,Development
+Drag VScode window,Left Click,1712651878.285992,08:37:58,10:37:58,2072,00:34:32,VScode,Development
+Click on VScode text zone,Left Click,1712651879.230001,08:37:59,10:37:59,2073,00:34:33,VScode,Development
+Line break,ENTER Key,1712651889.886150,08:38:09,10:38:09,2084,00:34:44,VScode,Development
+"Click on ""Run"" code icon",Left Click,1712651897.798172,08:38:17,10:38:17,2091,00:34:51,VScode,Development
+"Click on ""Save As..."" VScode window",Left Click,1712651906.102237,08:38:26,10:38:26,2100,00:35:00,VScode,Development
+"Select ""greeting - `Hello World`"" string",Left Click,1712651908.270270,08:38:28,10:38:28,2102,00:35:02,VScode,Development
+"Click on ""Save"" button",Left Click,1712651914.182323,08:38:34,10:38:34,2108,00:35:08,VScode,Development
+Drag VScode window,Left Click,1712651925.854513,08:38:45,10:38:45,2120,00:35:20,VScode,Development
+"Double-click on ""Hello"" string (1)",Left Click,1712651928.590448,08:38:48,10:38:48,2122,00:35:22,VScode,Development
+"Double-click on ""Hello"" string (2)",Left Click,1712651928.798527,08:38:48,10:38:48,2122,00:35:22,VScode,Development
+Click on VScode window,Left Click,1712651929.654471,08:38:49,10:38:49,2123,00:35:23,VScode,Development
+Click on VScode window,Left Click,1712651930.230468,08:38:50,10:38:50,2124,00:35:24,VScode,Development
+Close VScode window,Left Click,1712651932.414497,08:38:52,10:38:52,2126,00:35:26,VScode,Development
+"Click on ""Open a new tab"" Firefox icon",Left Click,1712651935.390515,08:38:55,10:38:55,2129,00:35:29,Firefox,Browsing
+Close Youtube tab,Left Click,1712651936.230563,08:38:56,10:38:56,2130,00:35:30,Firefox,Browsing
+Click on Firefox url bar,Left Click,1712651937.302563,08:38:57,10:38:57,2131,00:35:31,Firefox,Browsing
+"Search ""google doc"" on Google",ENTER Key,1712651947.718670,08:39:07,10:39:07,2141,00:35:41,Firefox,Browsing
+Click on Firefox url bar,Left Click,1712651957.918719,08:39:17,10:39:17,2152,00:35:52,Firefox,Browsing
+"Search ""office 365"" on Google",ENTER Key,1712651962.590852,08:39:22,10:39:22,2156,00:35:56,Firefox,Browsing
+"Open ""Office 365"" link",Left Click,1712651964.510777,08:39:24,10:39:24,2158,00:35:58,Firefox,Browsing
+"Click on ""Sign in"" button",Left Click,1712651979.422915,08:39:39,10:39:39,2173,00:36:13,Office365,Office
+"Click on ""Email"" field",Left Click,1712651983.982959,08:39:43,10:39:43,2178,00:36:18,Office365,Office
+"Click on ""Next"" button",Left Click,1712651993.583037,08:39:53,10:39:53,2187,00:36:27,Office365,Office
+"Click on ""Password"" field",Left Click,1712651995.551069,08:39:55,10:39:55,2189,00:36:29,Office365,Office
+"Click on ""Sign in"" button",Left Click,1712652078.823867,08:41:18,10:41:18,2273,00:37:53,Office365,Office
+"Click on ""Save"" Firefox pop-up button",Left Click,1712652082.471981,08:41:22,10:41:22,2276,00:37:56,Office365,Office
+"Click on ""Yes"" button",Left Click,1712652083.927906,08:41:23,10:41:23,2278,00:37:58,Office365,Office
+"Click on ""Create"" icon button",Left Click,1712652093.279975,08:41:33,10:41:33,2287,00:38:07,Office365,Office
+"Click on ""Create"" icon button",Left Click,1712652100.464074,08:41:40,10:41:40,2294,00:38:14,Office365,Office
+"Click on ""Presentation"" icon button",Left Click,1712652109.776129,08:41:49,10:41:49,2303,00:38:23,Office365,Office
+"Click on ""Click to add title"" field",Left Click,1712652121.736243,08:42:01,10:42:01,2315,00:38:35,Office365,Office
+"Click on ""Design"" menu button",Left Click,1712652128.208308,08:42:08,10:42:08,2322,00:38:42,Office365,Office
+Close Office 365 pop-up,Left Click,1712652176.928816,08:42:56,10:42:56,2371,00:39:31,Office365,Office
+"Click on ""Transitions"" menu button",Left Click,1712652178.256922,08:42:58,10:42:58,2372,00:39:32,Office365,Office
+"Click on ""Design"" menu button",Left Click,1712652179.872876,08:42:59,10:42:59,2374,00:39:34,Office365,Office
+"Click on ""Technology"" search picture button",Left Click,1712652188.848919,08:43:08,10:43:08,2383,00:39:43,Office365,Office
+Select a picture,Left Click,1712652212.297184,08:43:32,10:43:32,2406,00:40:06,Office365,Office
+Click on the picture,Left Click,1712652217.177185,08:43:37,10:43:37,2411,00:40:11,Office365,Office
+"Click on ""Design"" menu button",Left Click,1712652219.449182,08:43:39,10:43:39,2413,00:40:13,Office365,Office
+"Click on ""More theme"" arrow icon",Left Click,1712652222.329221,08:43:42,10:43:42,2416,00:40:16,Office365,Office
+Select a theme,Left Click,1712652226.457311,08:43:46,10:43:46,2420,00:40:20,Office365,Office
+"Click on ""Click to add title"" field",Left Click,1712652229.569341,08:43:49,10:43:49,2423,00:40:23,Office365,Office
+"Click on ""Click to add title"" field",Left Click,1712652330.490270,08:45:30,10:45:30,2524,00:42:04,Office365,Office
+"Select ""Results"" string",Left Click,1712652336.986360,08:45:36,10:45:36,2531,00:42:11,Office365,Office
+"Click on ""File"" menu button",Left Click,1712652338.386358,08:45:38,10:45:38,2532,00:42:12,Office365,Office
+Click on Firefox window,Left Click,1712652340.202359,08:45:40,10:45:40,2534,00:42:14,Office365,Office
+"Click on ""Home"" menu button",Left Click,1712652341.770435,08:45:41,10:45:41,2535,00:42:15,Office365,Office
+"Click on ""Click to add title"" field",Left Click,1712652344.962426,08:45:44,10:45:44,2539,00:42:19,Office365,Office
+"Click on ""Click to add title"" field",Left Click,1712652345.378412,08:45:45,10:45:45,2539,00:42:19,Office365,Office
+"Open context menu of ""Office 365"" presentation",Right Click,1712652507.204062,08:48:27,10:48:27,2701,00:45:01,Office365,Office
+"Click on ""New Slide"" proposition",Left Click,1712652508.884110,08:48:28,10:48:28,2703,00:45:03,Office365,Office
+Click on New Slide,Left Click,1712652510.100054,08:48:30,10:48:30,2704,00:45:04,Office365,Office
+"Click on ""Click to add title"" field",Left Click,1712652515.812174,08:48:35,10:48:35,2709,00:45:09,Office365,Office
+Click on Firefox window,Left Click,1712652524.060197,08:48:44,10:48:44,2718,00:45:18,Office365,Office
+Click on Firefox window,Left Click,1712652526.276214,08:48:46,10:48:46,2720,00:45:20,Office365,Office
+Open Thunderbird app,Left Click,1712652532.236293,08:48:52,10:48:52,2726,00:45:26,Thunderbird,Mail
+"Open ""New link"" mail",Left Click,1712652533.868330,08:48:53,10:48:53,2728,00:45:28,Thunderbird,Mail
+"Click on ""Zoom"" Thunderbird mail link",Left Click,1712652537.492362,08:48:57,10:48:57,2731,00:45:31,Zoom,Visioconference
+"Click on ""Open Link"" Firefox pop-up button",Left Click,1712652564.748604,08:49:24,10:49:24,2758,00:45:58,Zoom,Visioconference
+"Click on ""Cancel"" Ubuntu pop-up button",Left Click,1712652570.068661,08:49:30,10:49:30,2764,00:46:04,Zoom,Visioconference
+"Click on ""ACCEPT COOKIES"" button",Left Click,1712652571.132703,08:49:31,10:49:31,2765,00:46:05,Zoom,Visioconference
+"Click on ""Launch Meeting"" button",Left Click,1712652573.940711,08:49:33,10:49:33,2768,00:46:08,Zoom,Visioconference
+"Check ""Always allow to open Zoom links"" Firefox pop-up checkbox",Left Click,1712652578.956735,08:49:38,10:49:38,2773,00:46:13,Zoom,Visioconference
+"Click on ""Cancel"" Firefox pop-up button",Left Click,1712652583.564909,08:49:43,10:49:43,2777,00:46:17,Zoom,Visioconference
+"Click on ""Join from Your Browser"" link",Left Click,1712652584.708807,08:49:44,10:49:44,2778,00:46:18,Zoom,Visioconference
+"Click on ""I Agree"" button",Left Click,1712652589.172859,08:49:49,10:49:49,2783,00:46:23,Zoom,Visioconference
+"Click on ""Start video"" button icon",Left Click,1712652598.036968,08:49:58,10:49:58,2792,00:46:32,Zoom,Visioconference
+"Click on ""Allow"" Firefox pop-up button",Left Click,1712652601.908972,08:50:01,10:50:01,2796,00:46:36,Zoom,Visioconference
+"Click on ""Join audio"" button icon",Left Click,1712652605.101001,08:50:05,10:50:05,2799,00:46:39,Zoom,Visioconference
+"Click on ""Your Name"" field",Left Click,1712652608.261030,08:50:08,10:50:08,2802,00:46:42,Zoom,Visioconference
+"Click on ""Allow"" Firefox pop-up button",Left Click,1712652613.437099,08:50:13,10:50:13,2807,00:46:47,Zoom,Visioconference
+"Click on ""Your Name"" field",Left Click,1712652614.445143,08:50:14,10:50:14,2808,00:46:48,Zoom,Visioconference
+"Check ""Remember my name"" checkbox",Left Click,1712652617.909266,08:50:17,10:50:17,2812,00:46:52,Zoom,Visioconference
+"Click on ""Mute"" microphone button icon",Left Click,1712652621.261206,08:50:21,10:50:21,2815,00:46:55,Zoom,Visioconference
+"Click on ""Join"" button",Left Click,1712652633.661308,08:50:33,10:50:33,2827,00:47:07,Zoom,Visioconference
+"Click on ""Always Block"" Firefox pop-up button",Left Click,1712652641.037372,08:50:41,10:50:41,2835,00:47:15,Zoom,Visioconference
+"Click on ""Stop Video"" Zoom button icon",Left Click,1712652739.422408,08:52:19,10:52:19,2933,00:48:53,Zoom,Visioconference
+"Click on ""Start Video"" Zoom button icon",Left Click,1712652741.182374,08:52:21,10:52:21,2935,00:48:55,Zoom,Visioconference
+"Click on ""Chat"" Zoom button icon",Left Click,1712652754.206563,08:52:34,10:52:34,2948,00:49:08,Zoom,Visioconference
+"Click on ""Chat"" text field",Left Click,1712652756.286540,08:52:36,10:52:36,2950,00:49:10,Zoom,Visioconference
+"Send ""Chat"" message",ENTER Key,1712652770.702716,08:52:50,10:52:50,2964,00:49:24,Zoom,Visioconference
+"Send ""Chat"" message",ENTER Key,1712652781.726831,08:53:01,10:53:01,2975,00:49:35,Zoom,Visioconference
+"Click on ""Leave"" Zoom button",Left Click,1712652793.670965,08:53:13,10:53:13,2987,00:49:47,Zoom,Visioconference
+"Click on ""Leave meeting"" Zoom button",Left Click,1712652794.870932,08:53:14,10:53:14,2989,00:49:49,Zoom,Visioconference
+"Click on ""Join Meeting"" button",Left Click,1712652796.823013,08:53:16,10:53:16,2991,00:49:51,Zoom,Visioconference
+Open Thunderbird window,Left Click,1712652799.063012,08:53:19,10:53:19,2993,00:49:53,Thunderbird,Mail
+"Click on ""Zoom"" Thunderbird mail link",Left Click,1712652800.799061,08:53:20,10:53:20,2994,00:49:54,Thunderbird,Mail
+Open Firefox window,Left Click,1712652803.951022,08:53:23,10:53:23,2998,00:49:58,Firefox,Browsing
+"Close ""Office 365"" tab",Wheel Click,1712652806.655048,08:53:26,10:53:26,3000,00:50:00,Firefox,Browsing
+"Close ""Office 365 Presentation"" tab",Wheel Click,1712652807.279046,08:53:27,10:53:27,3001,00:50:01,Firefox,Browsing
+"Move to ""Zoom Join Metting"" tab",Left Click,1712652812.527112,08:53:32,10:53:32,3006,00:50:06,Firefox,Browsing
+"Close ""Zoom join Meeting"" tab",Wheel Click,1712652813.455116,08:53:33,10:53:33,3007,00:50:07,Firefox,Browsing
+"Click on ""Cancel"" Firefox pop-up button",Left Click,1712652816.943198,08:53:36,10:53:36,3011,00:50:11,Zoom,Visioconference
+"Click on ""Join from Your Browser"" link",Left Click,1712652818.287170,08:53:38,10:53:38,3012,00:50:12,Zoom,Visioconference
+"Click on ""Allow"" Firefox pop-up button",Left Click,1712652828.119261,08:53:48,10:53:48,3022,00:50:22,Zoom,Visioconference
+"Click on ""Camera"" Firefox pop-up dropdown",Left Click,1712652832.039313,08:53:52,10:53:52,3026,00:50:26,Zoom,Visioconference
+"Click on ""Camera"" Firefox pop-up dropdown",Left Click,1712652833.615353,08:53:53,10:53:53,3027,00:50:27,Zoom,Visioconference
+"Click on ""Allow"" Firefox pop-up button",Left Click,1712652834.367328,08:53:54,10:53:54,3028,00:50:28,Zoom,Visioconference
+"Click on ""Activities"" Ubuntu button",Left Click,1712652855.175535,08:54:15,10:54:15,3049,00:50:49,Ubuntu,System
+"Open Ubuntu ""Settings"" ",ENTER Key,1712652867.591709,08:54:27,10:54:27,3061,00:51:01,Ubuntu,System
+"Click on ""Search"" icon",Left Click,1712652871.431771,08:54:31,10:54:31,3065,00:51:05,Ubuntu,System
+"Click on ""Sound"" menu button",Left Click,1712652879.791813,08:54:39,10:54:39,3073,00:51:13,Ubuntu,System
+"Click on ""Settings"" window",Left Click,1712652883.695814,08:54:43,10:54:43,3077,00:51:17,Ubuntu,System
+"Click on ""Displays"" menu button",Left Click,1712652887.039874,08:54:47,10:54:47,3081,00:51:21,Ubuntu,System
+"Click on ""Sharing"" menu button",Left Click,1712652890.303924,08:54:50,10:54:50,3084,00:51:24,Ubuntu,System
+"Click on ""Applications"" menu button",Left Click,1712652892.799972,08:54:52,10:54:52,3086,00:51:26,Ubuntu,System
+"Close ""Settings"" window",Left Click,1712652896.863986,08:54:56,10:54:56,3091,00:51:31,Ubuntu,System
+"Click on ""Stop Video"" Zoom button icon",Left Click,1712652899.175997,08:54:59,10:54:59,3093,00:51:33,Zoom,Visioconference
+"Click on ""Open a new tab"" Firefox icon",Left Click,1712652902.416032,08:55:02,10:55:02,3096,00:51:36,Firefox,Browsing
+"Close ""Zoom"" tab",Wheel Click,1712652906.048075,08:55:06,10:55:06,3100,00:51:40,Firefox,Browsing
+"Click on ""zoom install"" search proposition",Left Click,1712652908.320109,08:55:08,10:55:08,3102,00:51:42,Firefox,Browsing
+"Click on ""Download Zoom Desktop client"" link",Left Click,1712652913.368197,08:55:13,10:55:13,3107,00:51:47,Firefox,Browsing
+"Click on ""ACCEPT COOKIES"" button",Left Click,1712652938.264446,08:55:38,10:55:38,3132,00:52:12,Firefox,Browsing
+"Open ""Download Center"" link",Wheel Click,1712652947.232483,08:55:47,10:55:47,3141,00:52:21,Firefox,Browsing
+"Open ""Zoom Linux"" link",Wheel Click,1712652949.544494,08:55:49,10:55:49,3143,00:52:23,Firefox,Browsing
+"Moving to ""Zoom Linux"" tab",Left Click,1712652953.240527,08:55:53,10:55:53,3147,00:52:27,Firefox,Browsing
+"Click on ""Using the terminal"" link",Left Click,1712652960.752711,08:56:00,10:56:00,3154,00:52:34,Firefox,Browsing
+"Open ""Download Center 2"" link",Wheel Click,1712652967.808703,08:56:07,10:56:07,3161,00:52:41,Firefox,Browsing
+"Moving to ""Download Center 2"" tab",Left Click,1712652968.856701,08:56:08,10:56:08,3163,00:52:43,Firefox,Browsing
+"Close ""Download Center"" tab",Wheel Click,1712652970.464705,08:56:10,10:56:10,3164,00:52:44,Firefox,Browsing
+"Click on ""Linux Type"" dropdown",Left Click,1712652972.984730,08:56:12,10:56:12,3167,00:52:47,Firefox,Browsing
+"Select ""Ubuntu"" proposition",Left Click,1712652973.888742,08:56:13,10:56:13,3168,00:52:48,Firefox,Browsing
+"Click on ""Download"" button",Left Click,1712652975.216753,08:56:15,10:56:15,3169,00:52:49,Firefox,Browsing_Download
+Open terminal window,Left Click,1712652978.912820,08:56:18,10:56:18,3173,00:52:53,Terminal,System
+Click on terminal command field,Left Click,1712652980.096809,08:56:20,10:56:20,3174,00:52:54,Terminal,System
+"Run ""sudo dpkg -i zoom_amd64.deb"" command",ENTER Key,1712652990.441053,08:56:30,10:56:30,3184,00:53:04,Terminal,System
+Validate password,ENTER Key,1712652992.937050,08:56:32,10:56:32,3187,00:53:07,Terminal,System
+Click on terminal window,Left Click,1712653023.041296,08:57:03,10:57:03,3217,00:53:37,Terminal,System
+"Select ""libxcb-xinerama0"" (1)",Left Click,1712653027.497367,08:57:07,10:57:07,3221,00:53:41,Terminal,System
+"Select ""libxcb-xinerama0"" (2)",Left Click,1712653027.665370,08:57:07,10:57:07,3221,00:53:41,Terminal,System
+"Paste ""libxcb-xinerama0""",Wheel Click,1712653028.641372,08:57:08,10:57:08,3222,00:53:42,Terminal,System
+"Select ""libxcb-xtest0"" (1)",Left Click,1712653029.521367,08:57:09,10:57:09,3223,00:53:43,Terminal,System
+"Select ""libxcb-xtest0"" (2)",Left Click,1712653029.681360,08:57:09,10:57:09,3223,00:53:43,Terminal,System
+"Paste ""libxcb-xtest0"" ",Wheel Click,1712653030.105374,08:57:10,10:57:10,3224,00:53:44,Terminal,System
+"Select ""libxcb-cursor0"" (1)",Left Click,1712653030.945397,08:57:10,10:57:10,3225,00:53:45,Terminal,System
+"Select ""libxcb-cursor0"" (2)",Left Click,1712653031.097418,08:57:11,10:57:11,3225,00:53:45,Terminal,System
+"Paste ""libxcb-cursor0""",Wheel Click,1712653031.449374,08:57:11,10:57:11,3225,00:53:45,Terminal,System
+"Run ""sudo apt install libxcb-xinerama0 libxcb-xtest0 libxcb-cursor0"" command",ENTER Key,1712653032.209396,08:57:12,10:57:12,3226,00:53:46,Terminal,System_Download
+"Run ""sudo dpkg -i zoom_amd64.deb"" command",ENTER Key,1712653039.041463,08:57:19,10:57:19,3233,00:53:53,Terminal,System
+"Close ""Download Zoom Desktop client"" tab",Wheel Click,1712653065.425691,08:57:45,10:57:45,3259,00:54:19,Firefox,Browsing
+"Close ""Zoom Linux"" tab",Wheel Click,1712653065.881791,08:57:45,10:57:45,3260,00:54:20,Firefox,Browsing
+Open Thunderbird window,Left Click,1712653066.905702,08:57:46,10:57:46,3261,00:54:21,Thunderbird,Mail
+"Click on ""Zoom"" Thunderbird mail link",Left Click,1712653069.169753,08:57:49,10:57:49,3263,00:54:23,Thunderbird,Mail
+"Click on ""Open Link"" Firefox pop-up button",Left Click,1712653070.737782,08:57:50,10:57:50,3264,00:54:24,Zoom,Visioconference
+"Click on ""Launch meeting""",Left Click,1712653076.521806,08:57:56,10:57:56,3270,00:54:30,Zoom,Visioconference
+"Select ""user"" string",Left Click,1712653087.777922,08:58:07,10:58:07,3281,00:54:41,Zoom,Visioconference
+"Click on ""Join"" Zoom button",Left Click,1712653091.466068,08:58:11,10:58:11,3285,00:54:45,Zoom,Visioconference
+"Click on ""I Agree"" Zoom pop-up button",Left Click,1712653093.018021,08:58:13,10:58:13,3287,00:54:47,Zoom,Visioconference
+"Click on ""Join"" button",Left Click,1712653097.378060,08:58:17,10:58:17,3291,00:54:51,Zoom,Visioconference
+Drag Zoom window,Left Click,1712653101.202065,08:58:21,10:58:21,3295,00:54:55,Zoom,Visioconference
+"Click on ""Join with Computer Audio"" button",Left Click,1712653108.842158,08:58:28,10:58:28,3303,00:55:03,Zoom,Visioconference
+"Close ""Summarize your meeting with AI"" Zoom pop-up",Left Click,1712653114.178196,08:58:34,10:58:34,3308,00:55:08,Zoom,Visioconference
+"Click on ""Zoom Whiteboard"" Zoom pop-up",Left Click,1712653117.906221,08:58:37,10:58:37,3312,00:55:12,Zoom,Visioconference
+"Close ""Zoom Whiteboard"" Zoom pop-up",Left Click,1712653129.922359,08:58:49,10:58:49,3324,00:55:24,Zoom,Visioconference
+"Click on ""Share screen""",Left Click,1712653154.954620,08:59:14,10:59:14,3349,00:55:49,Zoom,Visioconference
+"Click on ""Stop Video"" Zoom button icon",Left Click,1712653166.490739,08:59:26,10:59:26,3360,00:56:00,Zoom,Visioconference
+"Click on ""Advanced"" button",Left Click,1712653189.450961,08:59:49,10:59:49,3383,00:56:23,Zoom,Visioconference
+"Click on ""Basic"" button",Left Click,1712653198.419055,08:59:58,10:59:58,3392,00:56:32,Zoom,Visioconference
+"Select ""Use system window capture"" button icon",Left Click,1712653207.691149,09:00:07,11:00:07,3401,00:56:41,Zoom,Visioconference
+"Click on ""Share"" button",Left Click,1712653218.563261,09:00:18,11:00:18,3412,00:56:52,Zoom,Visioconference
+"Try to drag ""Screen Share""",Left Click,1712653235.179439,09:00:35,11:00:35,3429,00:57:09,Zoom,Visioconference
+Select Firefox screen,Left Click,1712653240.483487,09:00:40,11:00:40,3434,00:57:14,Zoom,Visioconference
+"Click on ""Share"" button",Left Click,1712653253.323623,09:00:53,11:00:53,3447,00:57:27,Zoom,Visioconference
+Click on Firefox window,Left Click,1712653255.835648,09:00:55,11:00:55,3450,00:57:30,Zoom,Visioconference
+Drag Firefox window,Left Click,1712653260.131678,09:01:00,11:01:00,3454,00:57:34,Zoom,Visioconference
+"Close ""Zoom"" tab",Left Click,1712653262.243679,09:01:02,11:01:02,3456,00:57:36,Zoom,Visioconference
+Click on Firefox url bar,Left Click,1712653263.179677,09:01:03,11:01:03,3457,00:57:37,Firefox,Browsing
+"Click on ""www.office.com"" search proposition",Left Click,1712653268.643808,09:01:08,11:01:08,3462,00:57:42,Firefox,Browsing
+Enlarge Firefox window,Left Click,1712653273.867712,09:01:13,11:01:13,3468,00:57:48,Firefox,Browsing
+"Click on ""Presentation Template"" button icon",Left Click,1712653293.483772,09:01:33,11:01:33,3487,00:58:07,Office365,Office
+"Click on ""Back"" Firefox icon",Left Click,1712653296.331786,09:01:36,11:01:36,3490,00:58:10,Office365,Office
+"Click on ""PowerPoint"" menu icon",Left Click,1712653315.443849,09:01:55,11:01:55,3509,00:58:29,Office365,Office
+"Click on ""Presentation1"" button",Left Click,1712653332.971897,09:02:12,11:02:12,3527,00:58:47,Office365,Office
+"Click on ""Share"" dropdown",Left Click,1712653346.635948,09:02:26,11:02:26,3540,00:59:00,Office365,Office
+Drag Zoom dialog box,Left Click,1712653351.187977,09:02:31,11:02:31,3545,00:59:05,Office365,Office
+"Click on ""Share"" dropdown",Left Click,1712653385.588122,09:03:05,11:03:05,3579,00:59:39,Office365,Office
+"Click on ""Share"" proposition",Left Click,1712653388.012169,09:03:08,11:03:08,3582,00:59:42,Office365,Office
+"Click on ""Copy"" button",Left Click,1712653392.172144,09:03:12,11:03:12,3586,00:59:46,Office365,Office
+"Close ""Share"" Office 365 pop-up ",Left Click,1712653393.564155,09:03:13,11:03:13,3587,00:59:47,Office365,Office
+"Close ""Office 365"" tab",Left Click,1712653397.468174,09:03:17,11:03:17,3591,00:59:51,Firefox,Browsing
+Close Firefox app,Left Click,1712653400.396301,09:03:20,11:03:20,3594,00:59:54,Firefox,Browsing
+"Click on ""OK"" Zoom sharescreen pop-up button",Left Click,1712653405.732206,09:03:25,11:03:25,3599,00:59:59,Firefox,Browsing
+Open Zoom window,Left Click,1712653407.324217,09:03:27,11:03:27,3601,01:00:01,Zoom,Visioconference
+"Click on ""Zoom"" icon",Left Click,1712653416.532245,09:03:36,11:03:36,3610,01:00:10,Zoom,Visioconference
+Click on Zoom window,Left Click,1712653419.132274,09:03:39,11:03:39,3613,01:00:13,Zoom,Visioconference
+"Click on ""Show Captions"" icon",Left Click,1712653421.524332,09:03:41,11:03:41,3615,01:00:15,Zoom,Visioconference
+"Click on ""Show Captions"" icon",Left Click,1712653422.604294,09:03:42,11:03:42,3616,01:00:16,Zoom,Visioconference
+"Click on ""Whiteborad"" icon",Left Click,1712653423.956324,09:03:43,11:03:43,3618,01:00:18,Zoom,Visioconference
+"Click on ""Zoom"" windows",Left Click,1712653425.676296,09:03:45,11:03:45,3619,01:00:19,Zoom,Visioconference
+"Click on ""Chat"" icon",Left Click,1712653427.284310,09:03:47,11:03:47,3621,01:00:21,Zoom,Visioconference
+"Click on ""Chat"" text field",Left Click,1712653428.892319,09:03:48,11:03:48,3623,01:00:23,Zoom,Visioconference
+"Send ""Chat"" message",ENTER Key,1712653430.868368,09:03:50,11:03:50,3625,01:00:25,Zoom,Visioconference
+"Click on ""Chat"" text field",Left Click,1712653443.452444,09:04:03,11:04:03,3637,01:00:37,Zoom,Visioconference
+"Click on ""Chat"" text field",Left Click,1712653486.404599,09:04:46,11:04:46,3680,01:01:20,Zoom,Visioconference
+"Send ""Chat"" message",ENTER Key,1712653488.036688,09:04:48,11:04:48,3682,01:01:22,Zoom,Visioconference
+"Click on ""Leave"" Zoom button",Left Click,1712653490.460673,09:04:50,11:04:50,3684,01:01:24,Zoom,Visioconference
+"Click on ""End meeting for all"" Zoom button",Left Click,1712653504.180734,09:05:04,11:05:04,3698,01:01:38,Zoom,Visioconference
+"Close ""Zoom cloud meetings"" app",Left Click,1712653507.316708,09:05:07,11:05:07,3701,01:01:41,Zoom,Visioconference
+"Close ""Zoom cloud meetings"" app",Left Click,1712653509.292723,09:05:09,11:05:09,3703,01:01:43,Zoom,Visioconference
+Minimize Thunderbird window,Left Click,1712653513.076733,09:05:13,11:05:13,3707,01:01:47,Thunderbird,Mail
+"Click on ""Cancel"" Firefox pop-up button",Left Click,1712653517.716767,09:05:17,11:05:17,3711,01:01:51,Firefox,Browsing
+Close Firefox app,Left Click,1712653519.100772,09:05:19,11:05:19,3713,01:01:53,Firefox,Browsing
+Drag terminal window,Left Click,1712653521.004863,09:05:21,11:05:21,3715,01:01:55,Terminal,System
+Close terminal app,Left Click,1712653523.276883,09:05:23,11:05:23,3717,01:01:57,Terminal,System
+Open Firefox app,Left Click,1712653553.164960,09:05:53,11:05:53,3747,01:02:27,Firefox,Browsing
+Click on Firefox url bar,Left Click,1712653578.221142,09:06:18,11:06:18,3772,01:02:52,Firefox,Browsing
+Click on Firefox url bar,Left Click,1712653580.509227,09:06:20,11:06:20,3774,01:02:54,Firefox,Browsing
+"Search ""info"" on Google",ENTER Key,1712653590.629213,09:06:30,11:06:30,3784,01:03:04,Firefox,Browsing
+"Click on ""France info"" article link",Left Click,1712653594.677211,09:06:34,11:06:34,3788,01:03:08,Firefox,Browsing
+"Click on ""Accept cookies"" button",Left Click,1712653599.085231,09:06:39,11:06:39,3793,01:03:13,France Info,Information
+"Open ""Wolf"" article link",Left Click,1712653623.957385,09:07:03,11:07:03,3818,01:03:38,France Info,Information
+"Close ""Wolf"" article pop-up ",Left Click,1712653628.989482,09:07:08,11:07:08,3823,01:03:43,France Info,Information
+"Click on ""Open a new tab"" Firefox icon",Left Click,1712653630.325459,09:07:10,11:07:10,3824,01:03:44,Firefox,Browsing
+"Close ""France info"" tab",Wheel Click,1712653632.853525,09:07:12,11:07:12,3827,01:03:47,Firefox,Browsing
+Open Thunderbird window,Left Click,1712653638.253489,09:07:18,11:07:18,3832,01:03:52,Thunderbird,Mail
+"Click on ""Drafts"" Thunderbird menu button",Left Click,1712653646.757622,09:07:26,11:07:26,3840,01:04:00,Thunderbird,Mail
+"Click on ""Sent"" Thunderbird menu button",Left Click,1712653647.709638,09:07:27,11:07:27,3841,01:04:01,Thunderbird,Mail
+"Click on ""Junk"" Thunderbird menu button",Left Click,1712653648.853549,09:07:28,11:07:28,3843,01:04:03,Thunderbird,Mail
+"click on ""Inbox"" Thunderbird menu button",Left Click,1712653652.677574,09:07:32,11:07:32,3846,01:04:06,Thunderbird,Mail
+"Click on ""Trash"" Thunderbird menu button",Left Click,1712653654.141577,09:07:34,11:07:34,3848,01:04:08,Thunderbird,Mail
+"Click on ""Junk"" Thunderbird menu button",Left Click,1712653656.213650,09:07:36,11:07:36,3850,01:04:10,Thunderbird,Mail
+"Open mlannuzel ""Text:"" mail",Left Click,1712653657.613646,09:07:37,11:07:37,3851,01:04:11,Thunderbird,Mail
+"Open  Microsoft Account ""Welcome"" mail",Left Click,1712653661.909819,09:07:41,11:07:41,3856,01:04:16,Thunderbird,Mail
+"Click on ""Inbox"" Thunderbird menu button",Left Click,1712653665.653653,09:07:45,11:07:45,3859,01:04:19,Thunderbird,Mail
+Minimize Thunderbird window,Left Click,1712653667.357704,09:07:47,11:07:47,3861,01:04:21,Thunderbird,Mail
+Open terminal app,Left Click,1712653670.629710,09:07:50,11:07:50,3864,01:04:24,Terminal,System
+Drag terminal window,Left Click,1712653673.357781,09:07:53,11:07:53,3867,01:04:27,Terminal,System
+Click on terminal command field,Left Click,1712653673.749736,09:07:53,11:07:53,3867,01:04:27,Terminal,System
+"Run ""ip a"" command",ENTER Key,1712653675.565745,09:07:55,11:07:55,3869,01:04:29,Terminal,System
+"Run ""dhclient"" command",ENTER Key,1712653685.573847,09:08:05,11:08:05,3879,01:04:39,Terminal,System
+"Run ""sudo dhclient"" command",ENTER Key,1712653688.557873,09:08:08,11:08:08,3882,01:04:42,Terminal,System
+Validate password,ENTER Key,1712653690.821864,09:08:10,11:08:10,3885,01:04:45,Terminal,System
+Click on background Firefox url bar,Left Click,1712653699.533878,09:08:19,11:08:19,3893,01:04:53,Firefox,Browsing
+Close Firefox app,Left Click,1712653702.285908,09:08:22,11:08:22,3896,01:04:56,Firefox,Browsing
+Click on terminal command field,Left Click,1712653703.949982,09:08:23,11:08:23,3898,01:04:58,Terminal,System
+"Run ""ip a"" command",ENTER Key,1712653705.174071,09:08:25,11:08:25,3899,01:04:59,Terminal,System
+"Run ""reboot now"" command",ENTER Key,1712653725.926100,09:08:45,11:08:45,3920,01:05:20,Terminal,System
+"Run ""shutdown now"" command",ENTER Key,1712653729.414149,09:08:49,11:08:49,3923,01:05:23,Terminal,System
+Click on VMware app,Right Click,1712653738.078133,09:08:58,11:08:58,3932,01:05:32,VMWare,Other
+"Click on ""New Window"" proposition",Left Click,1712653742.630242,09:09:02,11:09:02,3936,01:05:36,VMWare,Other
+"Select ""Ubuntu 64-bit"" proposition",Left Click,1712653746.246184,09:09:06,11:09:06,3940,01:05:40,VMWare,Other
+"Click on ""Power on"" button",Left Click,1712653747.414207,09:09:07,11:09:07,3941,01:05:41,VMWare,Other
+"Click on ""OK"" VMware pop-up button",Left Click,1712653749.182221,09:09:09,11:09:09,3943,01:05:43,VMWare,Other
+"Click on ""OK"" VMware pop-up button",Left Click,1712653750.622240,09:09:10,11:09:10,3944,01:05:44,VMWare,Other
+"Click on ""OK"" VMware pop-up button",Left Click,1712653752.782222,09:09:12,11:09:12,3946,01:05:46,VMWare,Other
+Drag VMware window,Left Click,1712653755.646285,09:09:15,11:09:15,3949,01:05:49,VMWare,Other
+Drag VMware window,Left Click,1712653756.566252,09:09:16,11:09:16,3950,01:05:50,VMWare,Other
+"Click on ""user"" profil",Left Click,1712653780.326451,09:09:40,11:09:40,3974,01:06:14,Ubuntu,System
+"Select ""user"" profil",ENTER Key,1712653783.062547,09:09:43,11:09:43,3977,01:06:17,Ubuntu,System
+Validate password,ENTER Key,1712653785.694500,09:09:45,11:09:45,3979,01:06:19,Ubuntu,System
+Open terminal app,Left Click,1712653795.726532,09:09:55,11:09:55,3989,01:06:29,Terminal,System
+Drag terminal window,Left Click,1712653799.014614,09:09:59,11:09:59,3993,01:06:33,Terminal,System
+Click on terminal command field,Left Click,1712653799.566583,09:09:59,11:09:59,3993,01:06:33,Terminal,System
+"Run ""ip a"" command",ENTER Key,1712653804.326661,09:10:04,11:10:04,3998,01:06:38,Terminal,System
+"Run ""ssh router@192.168.3.254"" command",ENTER Key,1712653820.158801,09:10:20,11:10:20,4014,01:06:54,Terminal,System
+"Run ""ping 192.168.3.254"" command",ENTER Key,1712653835.198911,09:10:35,11:10:35,4029,01:07:09,Terminal,System
+Open Thunderbird app,Left Click,1712653846.998918,09:10:46,11:10:46,4041,01:07:21,Thunderbird,Mail
+Minimize Thunderbird window,Left Click,1712653857.895100,09:10:57,11:10:57,4052,01:07:32,Thunderbird,Mail
+Click on terminal window,Left Click,1712653863.671146,09:11:03,11:11:03,4057,01:07:37,Terminal,System
+"Run ""ip a"" command",ENTER Key,1712653864.735173,09:11:04,11:11:04,4058,01:07:38,Terminal,System
+"Run ""ping 192.168.3.1"" command",ENTER Key,1712653869.639192,09:11:09,11:11:09,4063,01:07:43,Terminal,System
+"Run ""ssh router@192.168.3.1"" command",ENTER Key,1712653875.407163,09:11:15,11:11:15,4069,01:07:49,Terminal,System
+"Send ""yes"" to ssh authenticity question",ENTER Key,1712653877.775256,09:11:17,11:11:17,4071,01:07:51,Terminal,System
+Validate password,ENTER Key,1712653880.871208,09:11:20,11:11:20,4075,01:07:55,Terminal,System
+Line break,ENTER Key,1712653881.791239,09:11:21,11:11:21,4075,01:07:55,Terminal,System
+Line break,ENTER Key,1712653881.967257,09:11:21,11:11:21,4076,01:07:56,Terminal,System
+Line break,ENTER Key,1712653882.151318,09:11:22,11:11:22,4076,01:07:56,Terminal,System
+"Run ""ip a"" command",ENTER Key,1712653883.831245,09:11:23,11:11:23,4078,01:07:58,Terminal,System
+"Run ""ls"" command",ENTER Key,1712653887.807290,09:11:27,11:11:27,4081,01:08:01,Terminal,System
+Line break,ENTER Key,1712653888.495330,09:11:28,11:11:28,4082,01:08:02,Terminal,System
+Line break,ENTER Key,1712653888.671298,09:11:28,11:11:28,4082,01:08:02,Terminal,System
+Line break,ENTER Key,1712653888.815272,09:11:28,11:11:28,4083,01:08:03,Terminal,System
+"Run ""touch hello.py"" command",ENTER Key,1712653897.687438,09:11:37,11:11:37,4091,01:08:11,Terminal,Development
+"run ""nano hello.py"" command",ENTER Key,1712653901.575448,09:11:41,11:11:41,4095,01:08:15,Terminal,Development
+Line break,ENTER Key,1712653910.559445,09:11:50,11:11:50,4104,01:08:24,Terminal,Development
+"Save ""hello.py"" script",ENTER Key,1712653916.879560,09:11:56,11:11:56,4111,01:08:31,Terminal,Development
+Line break,ENTER Key,1712653917.335518,09:11:57,11:11:57,4111,01:08:31,Terminal,Development
+Line break,ENTER Key,1712653917.535563,09:11:57,11:11:57,4111,01:08:31,Terminal,Development
+"Run ""python3 hello.py"" command",ENTER Key,1712653922.239515,09:12:02,11:12:02,4116,01:08:36,Terminal,Development
+"Run ""exit"" command",ENTER Key,1712653924.559616,09:12:04,11:12:04,4118,01:08:38,Terminal,System
+Close terminal app,Left Click,1712653927.951549,09:12:07,11:12:07,4122,01:08:42,Terminal,System
+Miss click,Left Click,1712653928.679610,09:12:08,11:12:08,4122,01:08:42,Terminal,System
+Click on VMware icon,Left Click,1712653936.031629,09:12:16,11:12:16,4130,01:08:50,VMWare,Other
+"Select ""router"" window proposition",Left Click,1712653936.983629,09:12:16,11:12:16,4131,01:08:51,VMWare,Other
+Click on router window,Left Click,1712653938.215694,09:12:18,11:12:18,4132,01:08:52,VMWare,Other
+Click on event window,Left Click,1712653943.311667,09:12:23,11:12:23,4137,01:08:57,VMWare,Other
+Click on event window,Left Click,1712653944.023691,09:12:24,11:12:24,4138,01:08:58,VMWare,Other
+,,,,,,,,
+

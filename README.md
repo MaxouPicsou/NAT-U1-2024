@@ -1,10 +1,9 @@
 # Network Activity Traces 2024
 
-Ce répertoire détail la méthode utilisée pour l'enregistrement et l'étiquetage des jeux de données. Il comporte l'ensemble des scripts qui ont servi à leur création.
-
+This directory details the method used for recording and labeling datasets. It includes all the scripts that were used to create them.
 ## Architecture
 
-L'architecture choisie est plutôt simple. Il s'agit du réseau d'une entreprise divisé en 3 sous-réseaux pour chacune des équipes:
+The chosen architecture is rather simple. This is a company's network divided into 3 subnetworks for each team:
 
 | Network        | Address     | masq          |
 |----------------|-------------|---------------|
@@ -14,28 +13,26 @@ L'architecture choisie est plutôt simple. Il s'agit du réseau d'une entreprise
 
 ![Architecture](images/architecture_company.png "Architecture")
 
-On s'intéresse aux activités d'un des développeurs de la compagnie. Pour simuler celà, on virtualise une partie du réseau à l'aide de VMware. L'enregistrement des données réseau se fait au niveau du routeur de bordure. La machine physique, elle, se comporte comme le couplage du routeur de sortie et le firewall.  
+We are interested in the activities of one of the company's developers. To simulate this, we virtualize part of the network using VMware. Network data recording is done at the border router. The physical machine behaves like the coupling of the output router and the firewall.
+![Architecture_Locale](images/architecture_local.png "Local Architecture")
 
-![Architecture_Locale](images/architecture_local.png "Architecture Locale")
+## Record
 
-## Enregistrement
+The data recording phase is composed of several parts:
+- Video recording
+- Record of inputs (mouse and keyboard)
+- Network capture
 
-La phase d'enregistrement des données est composée de plusieurs parties:
-- Enregistrement vidéo
-- Récupération des entrées (souris et clavier)
-- Capture réseau
+The first two records make it easier to label the dataset.
 
-Les deux premiers enregistrements permettent de plus facilement labeliser le jeu de données.
-
-### Enregistrement vidéo
-L'enregistrement vidéo est fait à l'aide de l'outils par défaut sous ubuntu 22.04. On tâche de bien faire apparaître le pointeur lors de la capture pour faciliter le suivi des différentes actions.
+### Video Record
+Video recording is done using the default tools under Ubuntu 22.04. We try to make the pointer appear clearly during capture to make it easier to follow the different actions.
 
 ![Video Record](images/img.png "Video record")
 
-Le format de sortie par défaut est le *.webm* qui est très lourd. Pour faciliter le traitement, la vidéo a été convertie en *.mp4*.
-### Récupération des entrées (souris et clavier)
-Pour récupérer les entrées on utilise la bibliothèque python [python-evdev](https://python-evdev.readthedocs.io/en/latest/). Elle permet de gérer les periphériques d'entrées en lecture et écriture sous Linux. Dans un premier temps, il est nécessaire de repérer sur quelles entrées se trouve nos périphériques. La commande suivante permet de les lister:
-
+The default output format is *.webm* which is very heavy. For easier processing, the video has been converted to *.mp4*.
+### Record inputs (mouse and keyboard)
+To retrieve the inputs we use the python library [python-evdev](https://python-evdev.readthedocs.io/en/latest/). It allows you to manage read and write input devices under Linux. First of all, it is necessary to identify which inputs our devices are located on. The following command allows you to list them:
 ```bash
 $ ls -l /dev/input/by-id/*
 
@@ -46,44 +43,41 @@ lrwxrwxrwx 1 root root  9 avril  9 08:10 /dev/input/by-id/usb-NOVATEK_USB_Keyboa
 lrwxrwxrwx 1 root root  9 avril  9 08:10 /dev/input/by-id/usb-NOVATEK_USB_Keyboard-event-kbd -> ../event5
 ```
 
-Dans notre cas, nous avons les entrées suivantes:
+In our case we have the following inputs:
 
 | Device   | File              | 
 |----------|-------------------|
 | Keyboard | /dev/input/event5 | 
 | Mouse    | /dev/input/event9 | 
 
-Il est important d'adapter les paramètres du script **Recorder.py** en fonction.
+It is important to adapt the parameters of the **Recorder.py** script accordingly.
+### Network Capture
 
-### Capture réseau
-La capture réseau est effectuée au niveau du routeur de bordure à l'aide d'une simple ligne de commande utilisant tshark:
-
+Network capture is done at the edge router using a simple command line using tshark:
 ```bash
 $ tshark -i <interface> -w <nom_du_fichier>
 ```
 
-Pour obtenir les flows, on peut utiliser le script **Converter.py** qui utilise la bibliothèque python [NFStream](https://www.nfstream.org/) à l'aide de la commande suivante:
+To obtain the flows, we can use the **Converter.py** script which uses the python library [NFStream](https://www.nfstream.org/) using the following command:
 ```bash
 $ python3 Converter.py <PCAP filename>
 ```
-Vous obtiendrez le fichier du même nom au format *.csv*.
-## Labelisation des données
-La labelisation des données se fait en partie automatiquement à l'aide du script  **Processing.py**.
+You will get the file of the same name in *.csv* format.
+## Data labeling
+Data labeling is partly done automatically using the **Processing.py** script.
 ```bash
 $ python3 Processing.py
 ```
-Il va lire les données du fichier *event_file.txt* qui contient les données des entrées (clavier + souris) enregistrées précédemment. Le format des données est le suivant:
-
+It will read the data from the *event_file.txt* file which contains the input data (keyboard + mouse) recorded previously. The data format is as follows:
 ```
 event at 1712649868.332587, code 272, type 01, val 01
 ```
 
-Chaque ligne se forme du timestamp de l'évènement, suivi du code correspondant à l'entrée, son type et enfin sa valeur. Les codes et types, bien que souvent similaires, sont propre au périphérique. On peut les trouver à l'aide de la commande suivante:
-
+Each line consists of the timestamp of the event, followed by the code corresponding to the entry, its type and finally its value. The codes and types, although often similar, are device specific. They can be found using the following command:
 ```bash
 $ sudo evemu-describe
 ```
-Dans notre cas, nous avons décidés de ne prendre en compte qu'uniquement les codes ci-dessous, estimant que ce sont les actions les plus couramment utilisées et générant le plus d'opérations.
+In our case, we decided to only take into account the codes below, considering that these are the most commonly used actions and generate the most operations.
 
 | Code | Device   | Event                                 | 
 |------|----------|---------------------------------------|
@@ -93,6 +87,6 @@ Dans notre cas, nous avons décidés de ne prendre en compte qu'uniquement les c
 | 28   | Keyboard | KEY_ENTER                             | 
 | 96   | Keyboard | KEY_KPENTER *(numeric keypad enter key)* | 
 
-Ces évènements peuvent prendre 2 valeurs, **01** lorsque la touche/click est enfoncé et **00** lorsqu'il est relaché.
-Nous cherchons donc l'ensemble des timestamps où s'est produit un des évènements correspondant à l'une de ces actions au moment ou la touche/click est relaché. 
-Ensuite, manuellement, nous étiquetons colonnes les Actions, Activités et Applications.
+These events can take 2 values, **01** when the key/click is pressed and **00** when it is released.
+We are therefore looking for all the timestamps where one of the events corresponding to one of these actions occurred at the moment the key/click was released.
+Then, manually, we label the columns Actions, Activities and Applications.

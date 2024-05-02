@@ -55,7 +55,7 @@ It is important to adapt the parameters of the **Recorder.py** script accordingl
 
 Network capture is done at the edge router using a simple command line using tshark:
 ```bash
-$ tshark -i <interface> -w <nom_du_fichier>
+$ tshark -i <interface> -w <filename>
 ```
 
 To obtain the flows, we can use the **Converter.py** script which uses the python library [NFStream](https://www.nfstream.org/) using the following command:

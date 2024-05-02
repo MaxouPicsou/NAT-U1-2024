@@ -1,0 +1,41 @@
+﻿Action,Type,Time(s),Time (GMT+0000),Time (GMT+0200),Video time (s),Video time (hh:mm:ss),Application,Activity
+Open Thunderbird app,Left Click,1712306322.061080,08:38:42,10:38:42,39,00:00:39,Thunderbird,Email
+"Open ""Welcome to Facebook"" mail",Left Click,1712306332.357375,08:38:52,10:38:52,49,00:00:49,Thunderbird,Email
+"Click on ""New message"" button",Left Click,1712306336.301288,08:38:56,10:38:56,53,00:00:53,Thunderbird,Email
+"Click on ""To"" field",Left Click,1712306339.429285,08:38:59,10:38:59,56,00:00:56,Thunderbird,Email
+"Click on ""Subject"" field",Left Click,1712306368.629534,08:39:28,10:39:28,85,00:01:25,Thunderbird,Email
+"Click on ""message"" field",Left Click,1712306372.261456,08:39:32,10:39:32,89,00:01:29,Thunderbird,Email
+"Click on ""Send"" button",Left Click,1712306381.709767,08:39:41,10:39:41,98,00:01:38,Thunderbird,Email
+Minimizing Thunderbird window,Left Click,1712306393.645767,08:39:53,10:39:53,110,00:01:50,Thunderbird,Email
+Open Firefox app,Left Click,1712306398.061759,08:39:58,10:39:58,115,00:01:55,Firefox,WEB Browsing
+Click on Firefox url bar,Left Click,1712306403.277776,08:40:03,10:40:03,120,00:02:00,Firefox,WEB Browsing
+"Click on ""Email"" field",Left Click,1712306415.517904,08:40:15,10:40:15,132,00:02:12,Firefox_Facebook,Social Network
+Select registered credentials dropdown proposition,Left Click,1712306416.157895,08:40:16,10:40:16,133,00:02:13,Firefox_Facebook,Social Network
+"Click on ""Password"" field",Left Click,1712306417.269871,08:40:17,10:40:17,134,00:02:14,Firefox_Facebook,Social Network
+"Click on ""Log In"" button",Left Click,1712306419.829950,08:40:19,10:40:19,136,00:02:16,Firefox_Facebook,Social Network
+"Click on ""Add Picture"" button",Left Click,1712306436.926045,08:40:36,10:40:36,153,00:02:33,Firefox_Facebook,Social Network
+"Click on ""Add Frame"" button",Left Click,1712306440.326003,08:40:40,10:40:40,157,00:02:37,Firefox_Facebook,Social Network
+"Click on ""Climate action"" proposition",Left Click,1712306444.446183,08:40:44,10:40:44,161,00:02:41,Firefox_Facebook,Social Network
+"Click on 'Close"" icon button",Left Click,1712306450.758120,08:40:50,10:40:50,167,00:02:47,Firefox_Facebook,Social Network
+"Click on ""Discard"" button",Left Click,1712306452.542170,08:40:52,10:40:52,169,00:02:49,Firefox_Facebook,Social Network
+"Click on ""Open a new tab"" Firefox icon",Left Click,1712306456.910204,08:40:56,10:40:56,173,00:02:53,Firefox,WEB Browsing
+Click on Firefox url bar,Left Click,1712306458.966166,08:40:58,10:40:58,175,00:02:55,Firefox,WEB Browsing
+"Click on ""Accept all"" Youtube cookies pop-up",Left Click,1712306472.014280,08:41:12,10:41:12,188,00:03:08,Firefox_Youtube,Streaming
+Click on Youtube menu icon button,Left Click,1712306484.150441,08:41:24,10:41:24,201,00:03:21,Firefox_Youtube,Streaming
+"Click on ""Trending"" proposition",Left Click,1712306489.006447,08:41:29,10:41:29,205,00:03:25,Firefox_Youtube,Streaming
+"Click on ""Imagine dragon"" video",Left Click,1712306509.606574,08:41:49,10:41:49,226,00:03:46,Firefox_Youtube,Streaming
+"click on ""Skip"" video button",Left Click,1712306518.350650,08:41:58,10:41:58,235,00:03:55,Firefox_Youtube,Streaming
+Click on video configuration icon button,Left Click,1712306533.918778,08:42:13,10:42:13,250,00:04:10,Firefox_Youtube,Streaming
+"Click on ""Quality"" proposition",Left Click,1712306536.622789,08:42:16,10:42:16,253,00:04:13,Firefox_Youtube,Streaming
+"Click on ""2160p 4K"" proposition",Left Click,1712306538.694839,08:42:18,10:42:18,255,00:04:15,Firefox_Youtube,Streaming
+Click on 'Full screen' icon button,Left Click,1712306542.478850,08:42:22,10:42:22,259,00:04:19,Firefox_Youtube,Streaming
+Click on 'Full screen' icon button,Left Click,1712306563.415024,08:42:43,10:42:43,280,00:04:40,Firefox_Youtube,Streaming
+Move forward video to 2:18,Left Click,1712306573.143106,08:42:53,10:42:53,290,00:04:50,Firefox_Youtube,Streaming
+"Click on ""Pause"" Youtube video button",Left Click,1712306590.303242,08:43:10,10:43:10,307,00:05:07,Firefox_Youtube,Streaming
+Close Firefox app,Left Click,1712306595.727294,08:43:15,10:43:15,312,00:05:12,Firefox_Youtube,Streaming
+Open Thunderbird window,Left Click,1712306599.711360,08:43:19,10:43:19,316,00:05:16,Thunderbird,Email
+"Click on ""Here's an easy way to log into Facebook"" mail",Left Click,1712306602.087383,08:43:22,10:43:22,319,00:05:19,Thunderbird,Email
+"Click on ""Update message"" icon button",Left Click,1712306605.399367,08:43:25,10:43:25,322,00:05:22,Thunderbird,Email
+Close Thunderbird app,Left Click,1712306609.799548,08:43:29,10:43:29,326,00:05:26,Thunderbird,Email
+Click on event window,Left Click,1712306612.431464,08:43:32,10:43:32,329,00:05:29,Other,Other
+
